@@ -1,0 +1,10 @@
+Brief 2: Les SGBD
+Rendu:
+brief2-rendu.ipynb
+
+cours:
+SGBD_Forces_et_Faiblesses.pdf
+
+Fichiers csv contenant les données pour ce brief:
+Netflix_Shows.csv
+netflix_titles.csv
