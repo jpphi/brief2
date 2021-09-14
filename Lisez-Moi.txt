@@ -5,6 +5,40 @@ brief2-rendu.ipynb
 cours:
 SGBD_Forces_et_Faiblesses.pdf
 
-Fichiers csv contenant les données pour ce brief:
-Netflix_Shows.csv
-netflix_titles.csv
+Fichiers contenant les données pour ce brief:
+data.zip (Netflix_Shows.csv,netflix_titles.csv)
+Il doit se situer au même niveau que le ".jpynb" et être décompressé
+
+
+
+
+
+
+
+
+
+
+
+
+1er brief du cycle d'étude
+début: 31 octobre 2020
+Correction du brief réaliser le 20/08/2021
+Ajout d'un dashboard réalisé le
+
+Contenu:
+Brief1 - rendu.ipynb
+carData.csv
+Lisez.Moi
+Projet Achat d'une voiture.pdf
+
+Note: pour régler le problème du push:
+	git push origin main
+	
+	Username for 'https://github.com': jpphi
+	Password for 'https://jpphi@github.com': 
+	remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+	remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+	fatal: impossible d'accéder à 'https://github.com/jpphi/brief1.git/' : The requested URL returned error: 403
+
+	Faire:
+	git remote set-url origin git@github.com:jpphi/brief1.git
